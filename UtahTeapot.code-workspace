@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "UtahTeapot",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/home/shuto/develop/tools/unreal_engine/4.26"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
