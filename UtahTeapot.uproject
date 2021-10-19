@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F5865F0C-51A5-4AFE-9558-0A6400651B7C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UtahTeapot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"ProceduralMeshComponent"
+			]
+		}
+	]
+}

@@ -1,0 +1,3 @@
+[submodule "Source/ThirdParty/UtahTeapot"]
+	path = Source/ThirdParty/UtahTeapot
+	url = git@github.com:dearshuto/UtahTeapot.git
